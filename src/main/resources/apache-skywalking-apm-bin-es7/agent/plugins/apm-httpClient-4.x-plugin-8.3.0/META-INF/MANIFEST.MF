@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: httpclient-4.x-plugin
+Implementation-Version: 8.3.0
+Built-By: wusheng
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: httpclient-4.x-plugin
+Implementation-Vendor-Id: org.apache.skywalking
+Created-By: Apache Maven 3.6.1
+Build-Jdk: 1.8.0_275
+Specification-Version: 8.3
+Implementation-URL: http://maven.apache.org
+Implementation-Vendor: The Apache Software Foundation
+
